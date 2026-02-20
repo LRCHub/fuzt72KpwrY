@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "感情",
+  "base_artist": "V.W.P",
+  "createdAt": "2026-02-20T15:44:17.850128Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "感情",
+      "artist": "wacci",
+      "has_synced": true,
+      "path": "select/01_感情_wacci.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "CRAZY 感情 STYLE",
+      "artist": "凛として時雨",
+      "has_synced": true,
+      "path": "select/02_CRAZY_感情_STYLE_凛として時雨.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "感情",
+      "artist": "V.W.P",
+      "has_synced": false,
+      "path": "select/03_感情_V.W.P.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "感情",
+      "artist": "V.W.P",
+      "has_synced": true,
+      "path": "select/04_感情_V.W.P.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "03_知らない、感情【オホ声】",
+      "artist": "ろりっくorろりっ娘!",
+      "has_synced": true,
+      "path": "select/05_03_知らない、感情【オホ声】_ろりっくorろりっ娘!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "感情",
+      "artist": "V.W.P, 花譜, 理芽, 春猿火, ヰ世界情緒, 幸祜",
+      "has_synced": false,
+      "path": "select/pl_01_感情_V.W.P,_花譜,_理芽,_春猿火,_ヰ世界情緒,_幸祜.txt"
+    }
+  ]
+}
